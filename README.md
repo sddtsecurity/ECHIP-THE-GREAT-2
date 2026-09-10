@@ -28,6 +28,7 @@
       <br>
      <h2>He will be calling phone numbers and account no. watch out for your name and details, today may be your turn around breakthrough and could be today.</h2>  
       <h3>He has finally planned to run away n leave his brother here alone here in calabar after i beg him not to leave me</h3>
+      <h2>who doesnt need a jonathan as David Did<h/2>
 
 
 <h4>God bless you my bro. ❤️most wonderful ignoring bro. of the year...  </h4>
