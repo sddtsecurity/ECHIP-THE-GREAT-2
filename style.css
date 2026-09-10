@@ -1,1 +1,17 @@
+.navbar{
+  color:green
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: column;
+  color:green;
+    position:absolute;
+  top: 0;
+  right: 0;
+  color: green;
+}
+.nav-links a{
+  color: green;
+}
 
